@@ -454,7 +454,7 @@ FireBeetle-M0        |      √       |              |             |
 
 ## 历史
 
-- 2020/07/02 - Version 1.0.0 released.
+- 2022/09/24 - Version 1.0.0 released.
 
 ## 创作者
 
